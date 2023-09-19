@@ -1,2 +1,2 @@
 - 🔭 I’m currently working on web game
-- 🌱 I’m currently learning pixi.js three.js svelte.js
+- 🌱 I’m currently learning pixi.js three.js
