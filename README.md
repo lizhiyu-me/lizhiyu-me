@@ -1,2 +1,2 @@
 - 🔭 I’m currently working on web game
-- 🌱 I’m currently learning svelte.js three.js
+- 🌱 I’m currently learning svelte.js Phaser.js
