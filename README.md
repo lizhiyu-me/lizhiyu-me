@@ -1,2 +1,1 @@
-- 🔭 I’m currently working on Web game
-- 🌱 I’m currently learning Svelte.js Pixi.js
+🔭 I’m currently working on Web game with Cocos Creator, Svelte.js and Pixi.js
